@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MySize</string>
+    <string name="neckHint">首回り</string>
+    <string name="sleeveHint">裄丈</string>
+    <string name="waistHint">胴回り</string>
+    <string name="inseamHint">股下</string>
+    <string name="buttonText">保存</string>
+    <string name="heightText">身長</string>
+    <string name="height">170</string>
+    <string name="textsize">36</string>
+    <string name="height1_text">140</string>
+    <string name="height2_text">150</string>
+    <string name="height3_text">160</string>
+    <string name="height4_text">170</string>
+</resources>
